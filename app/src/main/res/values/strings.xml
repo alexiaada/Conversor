@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Conversores</string>
+    <string-array name="spnLongitud">
+        <item>Metros</item>
+        <item>Centimetros</item>
+        <item>Pulgadas</item>
+        <item>Pies</item>
+        <item>Varas</item>
+        <item>Yardas</item>
+        <item>Kilometros</item>
+        <item>Millas</item>
+        <item>Millinetros</item>
+        <item>Micrometros</item>
+        <item>Nanometros</item>
+    </string-array>
+
+    <string-array name="spnAlmacenamiento">
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+        <item>TB</item>
+        <item>PB</item>
+        <item>EB</item>
+        <item>ZB</item>
+        <item>KiB</item>
+        <item>MiB</item>
+        <item>GiB</item>
+        <item>TiB</item>
+        <item>PiB</item>
+        <item>EiB</item>
+        <item>ZiB</item>
+    </string-array>
+
+    <string-array name="spnMonedas">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Quetzal</item>
+        <item>Peso mexicano</item>
+        <item>Yen</item>
+        <item>Libra esterlina</item>
+        <item>Lempira</item>
+        <item>Córdoba</item>
+        <item>Dolar canadiense</item>
+        <item>Peso colombiano</item>
+        <item>Peso chileno</item>
+        <item>Peso argentino</item>
+        <item>Colon salvadoreño</item>
+    </string-array>
+
+    <string-array name="spnMasa">
+        <item>Kilogramos</item>
+        <item>Gramos</item>
+        <item>Miligramos</item>
+        <item>Microgramo</item>
+        <item>Quilate</item>
+        <item>Stone</item>
+        <item>Libras</item>
+        <item>Toneladas</item>
+        <item>Onzas</item>
+        <item>Quintal</item>
+    </string-array>
+
+    <string-array name="spnTransferencia">
+        <item>Megabit por segundo</item>
+        <item>Bit por segundo</item>
+        <item>Byte por segundo</item>
+        <item>Kilobit por segundo</item>
+        <item>Kilobyte por segundo</item>
+        <item>Megabyte por segundo</item>
+        <item>Gigabit por segundo</item>
+        <item>Gigabyte por segundo</item>
+        <item>Terabit por segundo</item>
+        <item>Terabyte por segundo</item>
+    </string-array>
+
+    <string-array name="spnTiempo">
+        <item>Hora</item>
+        <item>Minuto</item>
+        <item>Segundo</item>
+        <item>Milisegundo</item>
+        <item>Microsegundo</item>
+        <item>Día</item>
+        <item>Semana</item>
+        <item>Mes</item>
+        <item>Año</item>
+        <item>Década</item>
+    </string-array>
+
+    <string-array name="spnVolumen">
+        <item>Galón</item>
+        <item>Cuarto</item>
+        <item>Pinta</item>
+        <item>Onza líquida</item>
+        <item>Cucharada</item>
+        <item>Cucharadita</item>
+        <item>Mililitro</item>
+        <item>Litro</item>
+        <item>Taza</item>
+        <item>Metro cúbico</item>
+    </string-array>
+
+</resources>
